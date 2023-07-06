@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=transparent)
 <!--
 **saurabh-singh-rajput/saurabh-singh-rajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

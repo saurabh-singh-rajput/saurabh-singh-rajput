@@ -1,5 +1,5 @@
-[![Saurav's GitHub stats-Dark](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark#gh-dark-mode-only)](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark#gh-dark-mode-only)
-[![Saurav's GitHub stats-Light](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=default#gh-light-mode-only)](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark#gh-light-mode-only)
+[![Saurav's GitHub stats-Dark](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only)](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only)
+[![Saurav's GitHub stats-Light](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=default&hide_border=true#gh-light-mode-only)](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark&hide_border=true#gh-light-mode-only)
 
 <!--
 **saurabh-singh-rajput/saurabh-singh-rajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

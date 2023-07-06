@@ -1,5 +1,5 @@
 [![Saurav's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark#gh-dark-mode-only)
-[![Saurav's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark#gh-dark-mode-only)
+[![Saurav's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark#gh-light-mode-only)
 
 <!--
 **saurabh-singh-rajput/saurabh-singh-rajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

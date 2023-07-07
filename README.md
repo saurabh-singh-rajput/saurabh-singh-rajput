@@ -10,7 +10,7 @@
 <!--         <a href=""><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a> -->
 <!--         <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a> -->
         <a href="https://github.com/saurabh-singh-rajput"><img src="https://komarev.com/ghpvc/?username=saurabh-singh-rajput&label=Views&color=brightgreen&style=flat" alt="views on github" /></a>
-        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SauftwareBug">
+        <a href="https://twitter.com/intent/follow?screen_name=SauftwareBug"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SauftwareBug"></a>
 </div>
 
 <!--

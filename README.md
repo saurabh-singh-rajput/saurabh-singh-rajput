@@ -1,7 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=3500&pause=50&color=20C20E&multiline=true&width=850&height=70&lines=~%2Fhome%24+ssh+saurabh%40github.com;~%2Fhome%24+Welcome+to+Saurabh's+GitHub+Profile)](https://git.io/typing-svg)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=3500&pause=50&color=20C20E&multiline=true&width=850&height=80&lines=~%2Fhome%24+Hi%2C+I'm+Saurabh;~%2Fhome%24+ssh+saurabh%40github.com;~%2Fhome%24+Welcome+to+Saurabh's+GitHub+Profile" alt="Typing SVG" /></a>
+<!-- <a href="http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only"><img src="http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only" alt="git stats" /></a>
+<a href="http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark&hide_border=true#gh-light-mode-only"><img src="http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" alt="git stats" /></a> -->
+        
+</div>
+
 
 [![Saurav's GitHub stats-Dark](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only)](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only)
 [![Saurav's GitHub stats-Light](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=default&hide_border=true#gh-light-mode-only)](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark&hide_border=true#gh-light-mode-only)
+
 
 <div align=center>
         <a href="https://www.linkedin.com/in/saurabhsingh-rajput/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>

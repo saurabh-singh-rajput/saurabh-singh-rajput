@@ -1,7 +1,7 @@
 [![Saurav's GitHub stats-Dark](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only)](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only)
 [![Saurav's GitHub stats-Light](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=default&hide_border=true#gh-light-mode-only)](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark&hide_border=true#gh-light-mode-only)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=23&pause=100&color=20C20E&multiline=true&width=820&height=70&lines=~%2Fhome%24+ssh+saurabh%40github.com;~%2Fhome%24+Welcome+to+Saurabh's+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=100&color=20C20E&multiline=true&width=820&height=70&lines=~%2Fhome%24+ssh+saurabh%40github.com;~%2Fhome%24+Welcome+to+Saurabh's+GitHub+Profile)](https://git.io/typing-svg)
 <!--
 **saurabh-singh-rajput/saurabh-singh-rajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -6,7 +6,7 @@
 <div align=center>
         <a href="https://www.linkedin.com/in/saurabhsingh-rajput/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://www.saurabhsinghrajput.com/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.saurabhsinghrajput.com%2F"></a>
-        <a href="https://twitter.com/intent/follow?screen_name=SauftwareBug"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SauftwareBug&style=flat"></a>
+        <a href="https://twitter.com/intent/follow?screen_name=SauftwareBug"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SauftwareBug"></a>
         <a href="https://tictectoe.beehiiv.com/"><img alt="Blog" src="https://img.shields.io/badge/Blogger-FF5722&style=flat"></a>
         <a href="https://github.com/saurabh-singh-rajput"><img src="https://komarev.com/ghpvc/?username=saurabh-singh-rajput&label=Views&color=brightgreen&style=flat" alt="views on github" /></a>
 </div>

@@ -6,8 +6,8 @@
 </div>
 
 
-[![Saurav's GitHub stats-Dark](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only)](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only)
-[![Saurav's GitHub stats-Light](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=default&hide_border=true#gh-light-mode-only)](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark&hide_border=true#gh-light-mode-only)
+[![Saurav's GitHub stats-Dark](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark&hide_border=true&cache_seconds=14400#gh-dark-mode-only)](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark&hide_border=true&cache_seconds=14400#gh-dark-mode-only)
+[![Saurav's GitHub stats-Light](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=default&hide_border=true&cache_seconds=14400#gh-light-mode-only)](http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark&hide_border=true&cache_seconds=14400#gh-light-mode-only)
 
 
 <div align=center>

@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=3500&pause=50&color=20C20E&multiline=true&width=850&height=80&lines=~%2Fhome%24+Hi%2C+I'm+Saurabh;~%2Fhome%24+ssh+saurabh%40github.com;~%2Fhome%24+Welcome+to+Saurabh's+GitHub+Profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=3500&pause=50&color=20C20E&multiline=true&width=850&height=80&lines=~%2Fhome%24+Hi%2C+I'm+Saurav;~%2Fhome%24+ssh+saurabh%40github.com;~%2Fhome%24+Welcome+to+Saurav's+GitHub+Profile" alt="Typing SVG" /></a>
 <!-- <a href="http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only"><img src="http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only" alt="git stats" /></a>
 <a href="http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=dark&hide_border=true#gh-light-mode-only"><img src="http://github-readme-stats-personal-hazel.vercel.app/api?username=saurabh-singh-rajput&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" alt="git stats" /></a> -->
         
